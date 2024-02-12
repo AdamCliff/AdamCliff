@@ -1,8 +1,6 @@
-# Hi, I'm Adam 👋👩
-
-=====
+# Hi, I'm Adam 👋
 
 ## Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,sass,react)
+[](https://skillicons.dev/icons?i=html,css,js,sass,react)
 <br/>
