@@ -11,6 +11,6 @@ I'm a Front-End Developer in the greater Boston area 📍🌎
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adamcliffdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </div>
